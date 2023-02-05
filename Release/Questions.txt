@@ -1,0 +1,3231 @@
+﻿{
+  "1": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2   Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2   Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "11": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "12": {
+      "Parameter": "Leadership & Integrity",
+      "questions": {
+        "1": {
+          "description": "Generally, unable to control subordinates. Still requires guidance and time before he could be groomed to lead.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Shows Leadership qualities but fails to motivate others and requires time for development. ",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Able to lead but generally requires guidance.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Have leadership qualities but need to gain respect from his peers and subordinate and occasionally need guidance to motivate others.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to lead effectively but lack of respect from subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A well-respected leader, able to motivate others to perform work effectively.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "13": {
+      "Parameter": "Planning & Organization",
+      "questions": {
+        "1": {
+          "description": "Delegation work to subordinates is not satisfactory. Work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organize and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "3": {
+    "1": {
+      "Parameter": "Work Performance",
+      "questions": {
+        "1": {
+          "description": "Unable to meet expectations fails in his duties.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Turns out acceptable amount of work, which may require revision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Barely gets by. Produce acceptable amount of work but does not exceed expectations",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally meets expectations with minimum supervision.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually does more than required at acceptable standards.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always exceed requirements in both qualitative & quantitative aspects.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Does not understand the concept of productivity and its relation to corporate profitability.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Has a fair idea of the concept of productivity but does know how to apply it.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair amount of knowledge on measures to reduce cost of production.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has his own ideas of productivity and does his fair share of promoting the concept.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Has clear understanding of his role, encouraging improvement in work productivity continually.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Takes every opportunity to demonstrate how work efficiency can be enhanced. ",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Cooperation",
+      "questions": {
+        "1": {
+          "description": "Is difficult to work with. Has a constantly passive attitude.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is inconsistent in his cooperation. Selective towards other functions in the corporation",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Is usually cooperative with others.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist others at times without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Willing to assist and accept responsibilities of others and execute them effectively.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist and work harmoniously as a group to achieve common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Safety & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations, and to maintain tidiness & cleanliness at workplace.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations, and seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally insensitive to safety rules & misusing safety equipment, but occasionally ensures workplace neat and tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations, but frequently ensures workplace neat and tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes, practice and enforce safety rules & regulations, and habitually ensures workplace neat and tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observe, practice and enforce safety rules & regulations, and upkeep workplace neat and tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Initiative",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job, give ideas only when called for.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Planning",
+      "questions": {
+        "1": {
+          "description": "Always work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organizes and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Accuracy of Judgement in decisions",
+      "questions": {
+        "1": {
+          "description": "Judgement totally not practical and inaccurate.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Decision based on incomplete or faulty data. Judgement requires revision and supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Judgement is sometimes seemingly practical but not based on facts.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Judgement is usually acceptable and supported by facts. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Judgement is usually practical and well supported by facts.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Judgement is practical, sound and reliable in all cases.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "4": {
+    "1": {
+      "Parameter": "Work Performance",
+      "questions": {
+        "1": {
+          "description": "Unable to meet expectations fails in his duties.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Turns out acceptable amount of work, which may require revision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Barely gets by. Produce acceptable amount of work but does not exceed expectations",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally meets expectations with minimum supervision.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually does more than required at acceptable standards.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always exceed requirements in both qualitative & quantitative aspects.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Does not understand the concept of productivity and its relation to corporate profitability.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Has a fair idea of the concept of productivity but does know how to apply it.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair amount of knowledge on measures to reduce cost of production.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has his own ideas of productivity and does his fair share of promoting the concept.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Has clear understanding of his role, encouraging improvement in work productivity continually.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Takes every opportunity to demonstrate how work efficiency can be enhanced. ",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Cooperation",
+      "questions": {
+        "1": {
+          "description": "Is difficult to work with. Has a constantly passive attitude.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is inconsistent in his cooperation. Selective towards other functions in the corporation",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Is usually cooperative with others.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist others at times without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Willing to assist and accept responsibilities of others and execute them effectively.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist and work harmoniously as a group to achieve common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Safety & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations, and to maintain tidiness & cleanliness at workplace.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations, and seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally insensitive to safety rules & misusing safety equipment, but occasionally ensures workplace neat and tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations, but frequently ensures workplace neat and tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes, practice and enforce safety rules & regulations, and habitually ensures workplace neat and tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observe, practice and enforce safety rules & regulations, and upkeep workplace neat and tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Initiative",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job, give ideas only when called for.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Responsibility for subordinates",
+      "questions": {
+        "1": {
+          "description": "Is unable to accept responsibilities. Usually neglects his responsibilities. ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally refuses to accept responsibilities for his subordinates failure.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Requires supervision in following up delegating responsibilities.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willingly accepts responsibilities but lacks follow-up.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Handles well his responsibilities, and needs very little follow-up",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Shows an outstanding ability to follow through.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Leadership And Integrity",
+      "questions": {
+        "1": {
+          "description": "Generally, unable to control subordinates. Still requires guidance and time before he could be groomed to lead.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Shows Leadership qualities but fails to motivate others and requires time for development. ",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Able to lead but generally requires guidance.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Have leadership qualities but need to gain respect from his peers and subordinate and occasionally need guidance to motivate others. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to lead effectively but lack of respect from subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A well-respected leader, able to motivate others to perform work effectively.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Relationship with subordinates",
+      "questions": {
+        "1": {
+          "description": "Has difficulties handling subordinates and fail to communicate effectively.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is not able to deal with experienced subordinates effectively.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has some friction with subordinates.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Does a good job handing his personnel.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is completely pleasing from his subordinates aspect.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Has excellent relations with subordinates and inspires people to work carefully.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Planning",
+      "questions": {
+        "1": {
+          "description": "Always work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organizes and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "11": {
+      "Parameter": "Assignment of Responsibility",
+      "questions": {
+        "1": {
+          "description": "Has difficulty organizing his subordinates.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Needs assistance to organize his own work time.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Makes use of his personnel but lacks in follow through.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally makes effective use of subordinates.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Assigns and guides his subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Utilize the full capacity of his subordinates.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "12": {
+      "Parameter": "Accuracy of Judgement in decisions",
+      "questions": {
+        "1": {
+          "description": "Judgement totally not practical and inaccurate.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Decision based on incomplete or faulty data. Judgement requires revision and supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Judgement is sometimes seemingly practical but not based on facts.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Judgement is usually acceptable and supported by facts. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Judgement is usually practical and well supported by facts.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Judgement is practical, sound and reliable in all cases.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "5": {
+    "1": {
+      "Parameter": "Work Performance",
+      "questions": {
+        "1": {
+          "description": "Unable to meet expectations fails in his duties.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Turns out acceptable amount of work, which may require revision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Barely gets by. Produce acceptable amount of work but does not exceed expectations",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally meets expectations with minimum supervision.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually does more than required at acceptable standards.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always exceed requirements in both qualitative & quantitative aspects.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Does not understand the concept of productivity and its relation to corporate profitability.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Has a fair idea of the concept of productivity but does know how to apply it.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair amount of knowledge on measures to reduce cost of production.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has his own ideas of productivity and does his fair share of promoting the concept.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Has clear understanding of his role, encouraging improvement in work productivity continually.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Takes every opportunity to demonstrate how work efficiency can be enhanced. ",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Cooperation",
+      "questions": {
+        "1": {
+          "description": "Is difficult to work with. Has a constantly passive attitude.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is inconsistent in his cooperation. Selective towards other functions in the corporation",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Is usually cooperative with others.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist others at times without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Willing to assist and accept responsibilities of others and execute them effectively.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist and work harmoniously as a group to achieve common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Safety & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations, and to maintain tidiness & cleanliness at workplace.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations, and seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally insensitive to safety rules & misusing safety equipment, but occasionally ensures workplace neat and tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations, but frequently ensures workplace neat and tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes, practice and enforce safety rules & regulations, and habitually ensures workplace neat and tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observe, practice and enforce safety rules & regulations, and upkeep workplace neat and tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Initiative",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job, give ideas only when called for.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Planning",
+      "questions": {
+        "1": {
+          "description": "Always work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organizes and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Accuracy of Judgement in decisions",
+      "questions": {
+        "1": {
+          "description": "Judgement totally not practical and inaccurate.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Decision based on incomplete or faulty data. Judgement requires revision and supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Judgement is sometimes seemingly practical but not based on facts.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Judgement is usually acceptable and supported by facts. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Judgement is usually practical and well supported by facts.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Judgement is practical, sound and reliable in all cases.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "6": {
+    "1": {
+      "Parameter": "Work Performance",
+      "questions": {
+        "1": {
+          "description": "Unable to meet expectations fails in his duties.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Turns out acceptable amount of work, which may require revision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Barely gets by. Produce acceptable amount of work but does not exceed expectations",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally meets expectations with minimum supervision.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually does more than required at acceptable standards.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always exceed requirements in both qualitative & quantitative aspects.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Does not understand the concept of productivity and its relation to corporate profitability.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Has a fair idea of the concept of productivity but does know how to apply it.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair amount of knowledge on measures to reduce cost of production.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has his own ideas of productivity and does his fair share of promoting the concept.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Has clear understanding of his role, encouraging improvement in work productivity continually.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Takes every opportunity to demonstrate how work efficiency can be enhanced. ",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Cooperation",
+      "questions": {
+        "1": {
+          "description": "Is difficult to work with. Has a constantly passive attitude.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is inconsistent in his cooperation. Selective towards other functions in the corporation",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Is usually cooperative with others.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist others at times without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Willing to assist and accept responsibilities of others and execute them effectively.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist and work harmoniously as a group to achieve common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Safety & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations, and to maintain tidiness & cleanliness at workplace.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations, and seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally insensitive to safety rules & misusing safety equipment, but occasionally ensures workplace neat and tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations, but frequently ensures workplace neat and tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes, practice and enforce safety rules & regulations, and habitually ensures workplace neat and tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observe, practice and enforce safety rules & regulations, and upkeep workplace neat and tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Initiative",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job, give ideas only when called for.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Responsibility for subordinates",
+      "questions": {
+        "1": {
+          "description": "Is unable to accept responsibilities. Usually neglects his responsibilities. ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally refuses to accept responsibilities for his subordinates failure.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Requires supervision in following up delegating responsibilities.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willingly accepts responsibilities but lacks follow-up.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Handles well his responsibilities, and needs very little follow-up",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Shows an outstanding ability to follow through.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Leadership And Integrity",
+      "questions": {
+        "1": {
+          "description": "Generally, unable to control subordinates. Still requires guidance and time before he could be groomed to lead.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Shows Leadership qualities but fails to motivate others and requires time for development. ",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Able to lead but generally requires guidance.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Have leadership qualities but need to gain respect from his peers and subordinate and occasionally need guidance to motivate others. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to lead effectively but lack of respect from subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A well-respected leader, able to motivate others to perform work effectively.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Relationship with subordinates",
+      "questions": {
+        "1": {
+          "description": "Has difficulties handling subordinates and fail to communicate effectively.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is not able to deal with experienced subordinates effectively.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has some friction with subordinates.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Does a good job handing his personnel.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is completely pleasing from his subordinates aspect.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Has excellent relations with subordinates and inspires people to work carefully.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Planning",
+      "questions": {
+        "1": {
+          "description": "Always work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organizes and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "11": {
+      "Parameter": "Assignment of Responsibility",
+      "questions": {
+        "1": {
+          "description": "Has difficulty organizing his subordinates.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Needs assistance to organize his own work time.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Makes use of his personnel but lacks in follow through.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Generally makes effective use of subordinates.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Assigns and guides his subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Utilize the full capacity of his subordinates.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "12": {
+      "Parameter": "Accuracy of Judgement in decisions",
+      "questions": {
+        "1": {
+          "description": "Judgement totally not practical and inaccurate.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Decision based on incomplete or faulty data. Judgement requires revision and supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Judgement is sometimes seemingly practical but not based on facts.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Judgement is usually acceptable and supported by facts. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Judgement is usually practical and well supported by facts.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Judgement is practical, sound and reliable in all cases.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "7": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9 ": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2   Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10 ": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "8": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2    Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "11": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "12": {
+      "Parameter": "Leadership & Integrity",
+      "questions": {
+        "1": {
+          "description": "Generally, unable to control subordinates. Still requires guidance and time before he could be groomed to lead.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Shows Leadership qualities but fails to motivate others and requires time for development. ",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Able to lead but generally requires guidance.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Have leadership qualities but need to gain respect from his peers and subordinate and occasionally need guidance to motivate others.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to lead effectively but lack of respect from subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A well-respected leader, able to motivate others to perform work effectively.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "13": {
+      "Parameter": "Planning & Organization",
+      "questions": {
+        "1": {
+          "description": "Delegation work to subordinates is not satisfactory. Work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organize and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "9": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2   Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  },
+  "10": {
+    "1": {
+      "Parameter": "Work Knowledge and application",
+      "questions": {
+        "1": {
+          "description": "Knowledge in area of work needs to buck up & lacking the importance of achieving quality objectives",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Knowledge confined only to own job and applies it satisfactorily in achieving quality objectives with some guidance.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Has a fair knowledge of own job and applies it satisfactorily in achieving quality objectives.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Has a fair knowledge of own job area and applies it effectively in achieving quality objectives.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Very well informed, has a wide knowledge of related area within scope of work and applies it effectively in achieving quality objectives.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "2": {
+      "Parameter": "Productivity",
+      "questions": {
+        "1": {
+          "description": "Amount of work needs to buck up.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Does enough of work to get by and has to be probed occasionally.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does enough of work according to the scope of work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Works steadily and produces satisfactory amount of work, occasionally above standard. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Generally, amount of work produced meets above normal standard. ",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces amount of work much exceed normal standard.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "3": {
+      "Parameter": "Quality Consciousness",
+      "questions": {
+        "1": {
+          "description": "Makes error and requires supervision.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Not accurate and sometimes careless.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Satisfactory in accurate work.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually produces accurate work.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Consistently produces accurate work.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Consistently produces work of high standard without error.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "4": {
+      "Parameter": "Teamwork & Co-operation",
+      "questions": {
+        "1": {
+          "description": "Individualistic. Keep only to own specific area of work. Unwilling to work together with others even when called upon.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Will assist only after much persuasion.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Willing to assist fellow colleagues at time without instructions.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Will accept responsibility of fellow colleagues even when job is not in his job area.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Willing to assist fellow colleagues effectively & work harmoniously as group to achieve a common goal at all times.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "5": {
+      "Parameter": "Attitude & Responsibility",
+      "questions": {
+        "1": {
+          "description": "Not dependable on and cannot be bothered.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Is unpredictable & sometimes perform well, need close supervision to carry out routine assignments with supervision.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Dependable only on routine assignments with supervision.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Dependable when given a piece of work or task to do but at times has to be reminded / supervised.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments with some supervision.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Is dependable whenever given a piece of work or task to perform on all assignments without supervision.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "6": {
+      "Parameter": "Care of Company Properties & Housekeeping",
+      "questions": {
+        "1": {
+          "description": "Often misuses Company Properties & fail to maintain tidiness & cleanliness at workplace ",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Occasionally misuses Company Properties & seldom maintain tidiness & cleanliness at workplace.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Occasionally misuses Company Properties but usually ensures workplace neat & tidy.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Company Properties correctly maintained & used but does not ensure workplace neat & tidy.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Company Properties correctly maintained & used, seldom lost or usually ensures workplace neat & tidy.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always take care of Companyâ€™s properties & maintain workplace neat & tidy.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "7": {
+      "Parameter": "Safety",
+      "questions": {
+        "1": {
+          "description": "Totally fail to observe & practice safety rules & regulations.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Often fail to observe & practice safety rules and regulations.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Generally indifferent to safety rules & misusing safety equipment.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Occasionally overlooks certain safety regulations. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Usually observes safety rules & regulations.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Always observes safety rules & regulations.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "8": {
+      "Parameter": "Initiative ",
+      "questions": {
+        "1": {
+          "description": "Does Job when told & in an unimaginative manner.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Lack of confidence; need improvement in working independently.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Does routine job but unable to generate any ideas.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Usually able to see things in their right perspective & suggest new ways of doing things occasionally. ",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Always generates new ideas on improvement of work. Is creative / innovative",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A self-starter, very enterprising, continually seeks & is able to find new & better ways of doing things.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "9": {
+      "Parameter": "Attendance & Punctuality",
+      "questions": {
+        "1": {
+          "description": "Absent: > 2   Late: > 5   Sick Leave: > 6 days",
+          "Weightage": "1"
+        },
+        "2": {
+          "description": "Absent: 2  Late: 5   Sick Leave: 6 days",
+          "Weightage": "2"
+        },
+        "3": {
+          "description": "Absent: 1  Late: 4   Sick Leave: 5 days",
+          "Weightage": "3"
+        },
+        "4": {
+          "description": "Absent: 0  Late: 3   Sick Leave: 4 days",
+          "Weightage": "4"
+        },
+        "5": {
+          "description": "Absent: 0  Late: 2    Sick Leave: 3 days",
+          "Weightage": "5"
+        },
+        "6": {
+          "description": "Absent: 0  Late: 1   Sick Leave: 2 days",
+          "Weightage": "6"
+        },
+        "7": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 1 day",
+          "Weightage": "7"
+        },
+        "8": {
+          "description": "Absent: 0  Late: 0  Sick Leave: 0",
+          "Weightage": "8"
+        }
+      }
+    },
+    "10": {
+      "Parameter": "Adaptability",
+      "questions": {
+        "1": {
+          "description": "Cannot or will not learn and accept changes.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Slow to learn and adjust to new assignements.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Learn reasonably well.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Keen to learn and accept changes.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to adapt fast and able to accept changes.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Exceptionally quick and able to accept change.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "11": {
+      "Parameter": "Communication",
+      "questions": {
+        "1": {
+          "description": "Inability to give clear and definite instructions, resulting in confusion.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Messages not effectively communicated.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Express fairly clear at times.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Express fairly clear and messages could be understood.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to express ideas and convey messages clearly both orally and in writing.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to express ideas and convey messages clearly and effectively both orally and in writing.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "12": {
+      "Parameter": "Leadership & Integrity",
+      "questions": {
+        "1": {
+          "description": "Generally, unable to control subordinates. Still requires guidance and time before he could be groomed to lead.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Shows Leadership qualities but fails to motivate others and requires time for development. ",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Able to lead but generally requires guidance.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Have leadership qualities but need to gain respect from his peers and subordinate and occasionally need guidance to motivate others.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to lead effectively but lack of respect from subordinates.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "A well-respected leader, able to motivate others to perform work effectively.",
+          "Weightage": "11-12"
+        }
+      }
+    },
+    "13": {
+      "Parameter": "Planning & Organization",
+      "questions": {
+        "1": {
+          "description": "Delegation work to subordinates is not satisfactory. Work behind schedule.",
+          "Weightage": "1-2"
+        },
+        "2": {
+          "description": "Generally is disorganized to develop an approach and method on routine assignments.",
+          "Weightage": "3-4"
+        },
+        "3": {
+          "description": "Fair ability to organize but require close supervision to accomplish objective.",
+          "Weightage": "5-6"
+        },
+        "4": {
+          "description": "Able to organize and plan work to meet objective with minimum guidance.",
+          "Weightage": "7-8"
+        },
+        "5": {
+          "description": "Able to organize and plan to achieve objectives fairly well without guidance.",
+          "Weightage": "9-10"
+        },
+        "6": {
+          "description": "Able to identify and set priorities, organize and plan to achieve objective with limited resources.",
+          "Weightage": "11-12"
+        }
+      }
+    }
+  }
+}

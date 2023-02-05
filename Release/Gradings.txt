@@ -1,0 +1,272 @@
+{
+  "1": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "2": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "3": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "4": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "5": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "6": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "7": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "8": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "9": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  },
+  "10": {
+    "1": {
+      "score": 44,
+      "rating": "E",
+      "description": "(Poor)Unsatisfactory performance that does not meet requirements."
+    },
+    "2": {
+      "score": 59,
+      "rating": "D",
+      "description": "(Below Average)Satisfactory performance that meets minimum requirements."
+    },
+    "3": {
+      "score": 79,
+      "rating": "C",
+      "description": "(Average)Good performance that consistently meets requirements."
+    },
+    "4": {
+      "score": 89,
+      "rating": "B",
+      "description": "(Good)A high quality performance where results exceed requirements."
+    },
+    "5": {
+      "score": 100,
+      "rating": "A",
+      "description": "(Very Good)Performance that consistently delivers very high quality results, far exceeding requirements"
+    }
+  }
+}
